@@ -17,10 +17,10 @@
   display: flex;
   padding-top: 15px;
   overflow: scroll;
+  justify-content: center;
 }
-.TopMenuLeft{
-  padding-left: 55px;
-}
+/* .TopMenuLeft{
+} */
 /* .TopMenuCenter{
   padding-left: 21px;
   padding-right: 21px;

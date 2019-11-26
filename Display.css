@@ -1,0 +1,25 @@
+*{
+  margin:0;
+}
+.TitleText{
+  font-family: din-2014,sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 25px;
+  color: black;
+  text-align: center;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+.Main{
+  width: 375px;
+  height: 790px;
+  background-image: url(リンク先/DisplayBack.png);
+  text-align: center;
+}
+.DisplayTitle{
+  padding-top: 13px;
+}
+.D5F{
+  padding-top: 20px;
+}

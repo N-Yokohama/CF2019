@@ -1,0 +1,35 @@
+*{
+  margin:0;
+}
+.TitleText{
+  font-family: din-2014,sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 25px;
+  color: black;
+  text-align: center;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+.Menu{
+  width: 375px;
+  height: 602px;
+  background-image: url(リンク先/FoodBack.png);
+  text-align: center;
+}
+.FoodTitle{
+  padding-top: 14px;
+}
+.Yakisoba{
+  padding-top: 3px;
+}
+.Hot{
+  padding-left: 8px;
+}
+.Baby{
+  padding-top: 6px;
+}
+.Tapi{
+  padding-left: 8px;
+}
+

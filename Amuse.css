@@ -1,0 +1,31 @@
+*{
+  margin:0;
+}
+.TitleText{
+  font-family: din-2014,sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 25px;
+  color: black;
+  text-align: center;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+.Main{
+  width: 375px;
+  height: 602px;
+  background-image: url(リンク先/AmuseBack.png);
+  text-align: center;
+}
+.AmuseTitle{
+  padding-top: 13px;
+}
+/* .Horror{
+  padding-top: 11px;
+} */
+.AmuseSection{
+  padding-top: 10px;
+}
+.Quiz{
+  padding-top: 33px;
+}

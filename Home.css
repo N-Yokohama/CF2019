@@ -1,5 +1,61 @@
 *{
-  padding:0;
   margin:0;
-  overflow: hidden;
 }
+.TitleText{
+  font-family: din-2014,sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 25px;
+  color: black;
+  text-align: center;
+  padding-top: 16px;
+}
+.All{
+  background-color: ghostwhite;
+}
+.TopMenu{
+  display: flex;
+  padding-top: 15px;
+  overflow: scroll;
+}
+.TopMenuLeft{
+  padding-left: 55px;
+}
+.TopMenuCenter{
+  padding-left: 21px;
+  padding-right: 21px;
+}
+.TopMenuRight{
+  padding-right: 55px;
+}
+.ButtonMenu{
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+  padding-bottom: 15px;
+}
+.FoodButton{
+  padding-right: 20px;
+  filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.3));
+}
+.StageButton{
+  padding-right: 20px;
+  filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.3));
+}
+.AmuseButton{
+  padding-right: 20px;
+  filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.3));
+}
+.DisplayButton{
+  filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.3));
+}
+.MAP{
+ text-align: center;
+}
+.MAP1FButton{
+  z-index: 1;
+}
+.MAP2FButton{
+  z-index: 2;
+}
+

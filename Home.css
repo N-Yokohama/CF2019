@@ -21,13 +21,13 @@
 .TopMenuLeft{
   padding-left: 55px;
 }
-.TopMenuCenter{
+/* .TopMenuCenter{
   padding-left: 21px;
   padding-right: 21px;
 }
 .TopMenuRight{
   padding-right: 55px;
-}
+} */
 .ButtonMenu{
   display: flex;
   justify-content: center;

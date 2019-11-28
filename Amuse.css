@@ -12,9 +12,9 @@
   padding-bottom: 16px;
 }
 .Main{
-  width: 375px;
-  height: 602px;
-  background-image: url(リンク先/AmuseBack.png);
+  width: auto;
+  height: auto;
+  background: linear-gradient(to bottom,#a50022,#7f0000);
   text-align: center;
 }
 .AmuseTitle{
@@ -28,4 +28,5 @@
 }
 .Quiz{
   padding-top: 33px;
+  padding-bottom: 80px;
 }

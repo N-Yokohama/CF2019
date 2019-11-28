@@ -12,9 +12,9 @@
   padding-bottom: 16px;
 }
 .Main{
-  width: 375px;
-  height: 790px;
-  background-image: url(リンク先/DisplayBack.png);
+  width: auto;
+  height: auto;
+  background: linear-gradient(to bottom,#c1e622,#57bb00);
   text-align: center;
 }
 .DisplayTitle{

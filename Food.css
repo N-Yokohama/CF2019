@@ -12,10 +12,11 @@
   padding-bottom: 16px;
 }
 .Menu{
-  width: 375px;
-  height: 602px;
-  background-image: url(リンク先/FoodBack.png);
+  width: auto;
+  height: auto;
+  background: linear-gradient(to bottom,#ffd522,#ffbb00);
   text-align: center;
+  padding-bottom: 120px;
 }
 .FoodTitle{
   padding-top: 14px;

@@ -12,9 +12,9 @@
   padding-bottom: 16px;
 }
 .Main{
-  width: 375px;
-  height: 660px;
-  background-image: url(リンク先/StageBack.png);
+  width: auto;
+  height: auto;
+  background: linear-gradient(to bottom,#0091e9,#005cbf);
   text-align: center;
 }
 .StageTitle{
@@ -22,4 +22,5 @@
 }
 .PMImg{
   padding-top: 13px;
+  padding-bottom: 30px;
 }

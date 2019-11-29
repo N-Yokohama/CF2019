@@ -17,9 +17,9 @@
   display: flex;
   padding-top: 15px;
   overflow: scroll;
-  /* justify-content: center; */
+  justify-content: center;
 }
-.TopMenuLeft{
+/* .TopMenuLeft{
   padding-left: 63px;
 }
 .TopMenuCenter{
@@ -28,7 +28,7 @@
 }
 .TopMenuRight{
   padding-right: 55px;
-}
+} */
 .ButtonMenu{
   display: flex;
   justify-content: center;
